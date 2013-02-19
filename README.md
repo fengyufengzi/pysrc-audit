@@ -1,4 +1,4 @@
 pysrc-audit
 ===========
 
-A simple pure python source-code line auditor
+A simple pure python python-source-code line auditor
